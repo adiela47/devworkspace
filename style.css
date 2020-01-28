@@ -2,6 +2,7 @@
     padding-top: 42%;
     padding-left: 10%;
     padding-right: 10%;
+    padding-bottom:1%;
 }
 .video-js-responsive-container.vjs-sd {
     padding-top: 75%;
@@ -36,3 +37,4 @@
 .vjs-has-started.vjs-user-inactive.vjs-playing .vjs-control-bar{
     opacity: 1;
 }
+
