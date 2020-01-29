@@ -64,10 +64,10 @@ var player = videojs( 'my-video',
       responsiveLayout: {}
     }
   },
-  function() {
-    console.log('Good to go!');
-    this.play();
-  }
+//   function() {
+//     console.log('Good to go!');
+//     this.play();
+//   }
 );
 
 var myButton = player.controlBar.addChild("button");
