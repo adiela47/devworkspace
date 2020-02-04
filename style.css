@@ -36,5 +36,7 @@
 }
 .vjs-has-started.vjs-user-inactive.vjs-playing .vjs-control-bar{
     opacity: 1;
+/*     -has-started.vjs-user-inactive.vjs-playing .vjs-control-bar{
+    opacity: 1; */
 }
 
